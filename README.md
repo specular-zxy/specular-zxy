@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @specular-zxy
-- 🌱 I’m currently learning Computer Graphics
+- 👋 Hi, I'm @specular-zxy
+- 🌱 I'm currently learning Computer Graphics
 
 <!---
 specular-zxy/specular-zxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
